@@ -1,4 +1,2 @@
 Hello Git!
-This is my first Git lab.
-This line was added in the feature branch.
-This change was made by Student 2.
+This is the conflict branch version.
